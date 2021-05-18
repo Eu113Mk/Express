@@ -1,0 +1,16 @@
+h1 {
+    font-family: "Akaya Telivigala", cursive;
+    margin: 2% 5%;
+  }
+  
+  p {
+      color: rgb(219, 39, 123);
+    margin: 2% 5%;
+  }
+  
+  a {
+    margin: 2% 1%;
+    color: black;
+    font-weight: bolder;
+    font-size: larger;
+  }
